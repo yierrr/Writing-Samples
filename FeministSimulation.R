@@ -8,8 +8,6 @@ library(fGarch)
 library(parallel)
 library(latex2exp)
 
-setwd("/Users/yierling/Desktop/private/fem_sim 23")
-
 # function: generating sample
 # arguments: sample size, female feminist percentage, male feminist percentage, female percentage
 #  deltas, own wealth weight mean and standard deviations, 
